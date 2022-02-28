@@ -4,7 +4,7 @@
 
   const Links = () => {
     return (
-      <div className="gpt3__brand section__padding">
+      <div className="cs__brand section__padding">
         <div>
           <a href="https://github.com/CodeSebb" target="_blank" rel="noreferrer noopener">
             <img src={github} alt="github" />

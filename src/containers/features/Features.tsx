@@ -27,12 +27,12 @@ const featuresData = [
 
 const Features = () => {
   return (
-    <div className="gpt3__features section__padding" id="features">
-      <div className="gpt3__features-heading">
+    <div className="cs__features section__padding" id="features">
+      <div className="cs__features-heading">
         <h1 className="gradient__text">Non-traditional paths are my thing. </h1>
         <p>Here's what I've learned so far:</p>
       </div>
-      <div className="gpt3__features-container">
+      <div className="cs__features-container">
         {featuresData.map((item, index) => (
           <Feature title={item.title} text={item.text} key={item.title + index} />
         ))}
