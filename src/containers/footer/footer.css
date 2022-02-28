@@ -1,0 +1,36 @@
+.cs__footer-links_logo div {
+    flex: 1;
+    max-width: 150px;
+    min-width: 120px;
+    margin: 1rem;
+    background: #fff;
+    height: 50px;
+    width: 35px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cs__footer-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cs__footer-linkedin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    background-color: #ffffff;
+}
+
+.cs__footer-copyright div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: var(--font-family);
+}
