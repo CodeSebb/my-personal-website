@@ -1,6 +1,8 @@
 # Welcome to my personal website!
 
-This project was a combination of React/Typescript, and a ton of fun to make!
+While this project is very heavy on CSS, I also wanted to make sure that I utilized <br>
+proper TSX principles in my project. <br>
+This project was a combination of React/Typescript, and a ton of fun to make! Enjoy!
 
 # The project breakdown goes like this:
   1) src <br>
