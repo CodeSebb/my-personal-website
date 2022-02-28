@@ -1,46 +1,42 @@
-# Getting Started with Create React App
+# Welcome to my personal website!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was a combination of React/Typescript, and a ton of fun to make!
 
-## Available Scripts
+# The project breakdown goes like this:
+  1) src <br>
+    A) assets
+      1) all png & svg's in project
+    B) components
+      1) dance
+      2) feature
+      3) links
+      4) navbar  
+    C) containers
+      1) code
+      2) CodeSebb
+      3) features
+      4) footer
+      5) header
+    D) App.css
+    E) App.tsx
+    F) custom.d.ts
+    G) global.d.ts
+    H) index.css
+    I) index.tsx
+# Style decisions
+  When it comes to colors, I genuinely love the look of gradients. In learning more about the crypto space, I noticed that many of the websites used gradient color schemes which immediately stood out to me! 
+Dark blues with some off-set color pops really stand out to me, which explains my style choices throughout the website. 
+<img width="1280" alt="linkedinpost1" src="https://user-images.githubusercontent.com/91494546/155908749-700adc24-eae4-4670-9bd6-ebf65ffaa833.png">
 
-In the project directory, you can run:
+# Keep it simple, silly!
+<img width="1280" alt="linkedinpost2" src="https://user-images.githubusercontent.com/91494546/155908923-b5ad98aa-00a9-49ee-a76a-3795289add45.png">
 
-### `npm start`
+  <img width="1280" alt="linkedinpost3" src="https://user-images.githubusercontent.com/91494546/155908931-107efcba-b30c-47ad-b2ce-1a7fa4859286.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img width="1280" alt="linkedinpost4" src="https://user-images.githubusercontent.com/91494546/155908943-25fcb92d-7514-450b-a2f6-037e4bfef1b6.png">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<img width="1280" alt="linkedinpost5" src="https://user-images.githubusercontent.com/91494546/155908949-3d46e7fe-34c7-4fde-a8ce-0b6c5e8e51e0.png">
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+ Are there more intricate things I could have done? Absolutely. Will I continue to work on it and implement those additions in the future? Of course! For now, however, I wanted this to be the first draft I put out there.
+ 
+ # Enjoy!
