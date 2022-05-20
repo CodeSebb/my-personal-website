@@ -1,7 +1,7 @@
 # Welcome to my personal website!
 
-While this project is very heavy on CSS, I also wanted to make sure that I utilized <br>
-proper TSX principles in my project. <br>
+This is the first iteration of my personal website!<br>
+(I will be updating this soon with the people who have contributed incredible feedback to make this website and its contents better!)
 This project was a combination of React/Typescript, and a ton of fun to make! Enjoy!
 
 # The project breakdown goes like this:
