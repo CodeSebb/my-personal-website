@@ -26,7 +26,7 @@ This project was a combination of React/Typescript, and a ton of fun to make! En
     H) index.css
     I) index.tsx
 # Style decisions
-  When it comes to colors, I genuinely love the look of gradients. In learning more about the crypto space, I noticed that many of the websites used gradient color schemes which immediately stood out to me! 
+  In learning more about the crypto space, I noticed that many of the UI choices highlight gradient color schemes which immediately stood out to me! 
 Dark blues with some off-set color pops really stand out to me, which explains my style choices throughout the website. 
 <img width="1280" alt="linkedinpost1" src="https://user-images.githubusercontent.com/91494546/155908749-700adc24-eae4-4670-9bd6-ebf65ffaa833.png">
 
