@@ -1,7 +1,6 @@
 # Welcome to my personal website! <br>
 https://www.codesebb.com
-
-This is my personal website!<br> 
+ 
 As a former professional dancer turned barista trainer turned software engineer,<br>
 this is a way to bridge part of my journey and the lessons learned over the years into a beautiful project!
 This project was a combination of React/Typescript, and a ton of fun to make. Enjoy!
