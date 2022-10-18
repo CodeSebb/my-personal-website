@@ -2,8 +2,8 @@
 
 This is my personal website!<br> 
 As a former professional dancer turned barista trainer turned software engineer,<br>
-this is a way to bridge part of my journey and the lessons learned over the years into a beautiful project! <br>
-This project was a combination of React/Typescript, and a ton of fun to make! Enjoy!
+this is a way to bridge part of my journey and the lessons learned over the years into a beautiful project!
+This project was a combination of React/Typescript, and a ton of fun to make. Enjoy!
 
 # Style decisions
   In learning more about the crypto space, I noticed that many of the UI choices highlight gradient color schemes which immediately stood out to me! 
