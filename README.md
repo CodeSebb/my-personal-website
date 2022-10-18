@@ -11,6 +11,8 @@ Dark blues with some off-set color pops really stand out to me, which explains m
 <img width="1280" alt="linkedinpost1" src="https://user-images.githubusercontent.com/91494546/155908749-700adc24-eae4-4670-9bd6-ebf65ffaa833.png">
 
 # Keep it simple, silly!
+  Something I have always appreciated is the simplicity behind gradients. I'm a huge fan of artists that utilize gradients
+  in their art because of the tie in with life and the shifting of one period of time in one's life to another.
 <img width="1280" alt="linkedinpost2" src="https://user-images.githubusercontent.com/91494546/155908923-b5ad98aa-00a9-49ee-a76a-3795289add45.png">
 
   <img width="1280" alt="linkedinpost3" src="https://user-images.githubusercontent.com/91494546/155908931-107efcba-b30c-47ad-b2ce-1a7fa4859286.png">
