@@ -1,30 +1,8 @@
 # Welcome to my personal website!
 
 This is the first iteration of my personal website!<br>
-(I will be updating this soon with the people who have contributed incredible feedback to make this website and its contents better!)
 This project was a combination of React/Typescript, and a ton of fun to make! Enjoy!
 
-# The project breakdown goes like this:
-  1) src <br>
-    A) assets
-      1) all png & svg's in project
-    B) components
-      1) dance
-      2) feature
-      3) links
-      4) navbar  
-    C) containers
-      1) code
-      2) CodeSebb
-      3) features
-      4) footer
-      5) header
-    D) App.css
-    E) App.tsx
-    F) custom.d.ts
-    G) global.d.ts
-    H) index.css
-    I) index.tsx
 # Style decisions
   In learning more about the crypto space, I noticed that many of the UI choices highlight gradient color schemes which immediately stood out to me! 
 Dark blues with some off-set color pops really stand out to me, which explains my style choices throughout the website. 
